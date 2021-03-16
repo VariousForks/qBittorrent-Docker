@@ -15,7 +15,7 @@ qBittorrent is based on the Qt toolkit and libtorrent-rasterbar library.
 ### Bulding
 
 ```shell
-git clone https://github.com/Dofamin/qBittorrent-Docker.git /srv/qBittorrent/
+git clone https://github.com/Dofamin/qBittorrent-Docker.git /srv/Dante/
 
 docker build /srv/qBittorrent/ --tag qbittorrent 
 
@@ -35,6 +35,8 @@ docker create \
 
 docker start qBittorrent
 ```
+
+Default login and password is ```admin:adminadmin```
 
 #### qBittorrent Features
 
