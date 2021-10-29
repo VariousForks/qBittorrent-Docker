@@ -1,3 +1,4 @@
+[![Docker Image CI](https://github.com/Dofamin/qBittorrent-Docker/actions/workflows/docker-image.yml/badge.svg?branch=main)](https://github.com/Dofamin/qBittorrent-Docker/actions/workflows/docker-image.yml)
 ## qBittorrent-Docker
 
 [qBittorrent](https://www.qbittorrent.org/) The qBittorrent project aims to provide an open-source software alternative to µTorrent.
