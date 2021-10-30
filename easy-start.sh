@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone https://github.com/Dofamin/qBittorrent-Docker.git /srv/Dante/
+git clone https://github.com/Dofamin/qBittorrent-Docker.git /srv/qBittorrent/
 
 docker build /srv/qBittorrent/ --tag qbittorrent 
 
